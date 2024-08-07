@@ -1,1 +1,5 @@
-# smai-m24-assignment1-template
+# SMAI Assignment 1
+
+## KNN
+
+## Linear Regression
